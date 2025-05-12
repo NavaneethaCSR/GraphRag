@@ -6,7 +6,7 @@
 
 3. Create a root directory using the commands:
 
-      python -m graphrag.index --root ./ragtest
+      python -m graphrag.index --root ./ragtest4
   
       After executing step 3, the following steps are generated: text chunks, entity extraction, entity summarization, community extraction and community reports.
 
