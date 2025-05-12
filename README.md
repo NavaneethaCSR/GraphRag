@@ -10,5 +10,5 @@
   
       After executing step 3, the following steps are generated: text chunks, entity extraction, entity summarization, community extraction and community reports.
 
-4 .Run detection.py to perform detection on the unseen dataset, which will be stored in the PREDICTIONS folder.
+4 .Run detect.py to perform detection on the unseen dataset, which will be stored in the PREDICTIONS folder.
  
