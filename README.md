@@ -6,9 +6,9 @@
 
 3. Create a root directory using the commands:
 
-  python -m graphrag.index --root ./ragtest
+      python -m graphrag.index --root ./ragtest
   
-After executing step 3, the following steps are generated: text chunks, entity extraction, entity summarization, community extraction and community reports.
+      After executing step 3, the following steps are generated: text chunks, entity extraction, entity summarization, community extraction and community reports.
 
 4 .Run detection.py to perform detection on the unseen dataset, which will be stored in the PREDICTIONS folder.
  
